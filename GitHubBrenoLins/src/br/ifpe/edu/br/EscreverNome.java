@@ -7,8 +7,9 @@ public class EscreverNome {
 		Scanner ler = new Scanner(System.in);
 		System.out.println("Qual seu nome?");
 		String nome;
-		nome = ler.next();
-		System.out.println("Seu nome é: "+nome);
+		String nome2;
+		nome2 = ler.next();
+		System.out.println("Seu nome é: "+nome2);
 		
 	}
 
